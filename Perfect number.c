@@ -11,7 +11,7 @@ if(num%i==0)
 sum=sum+i;
 }
 if(sum==num)
-printf("\n %d is a perfect number",num);
+       printf("\n %d is a perfect number",num);
 else
-printf("\n %d is not a perfect number",num);
+       printf("\n %d is not a perfect number",num);
 }
